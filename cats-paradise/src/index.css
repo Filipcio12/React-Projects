@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Sacramento";
+    src: url("./Sacramento-Regular.ttf") format("truetype");
+}
+
+body {
+    background-color: #d0c0f2;
+    font-family: "Sacramento";
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+span {
+    color: #0ac266;
+    font-weight: bold;
+}
+
+ul {
+    text-align: left;
+    margin-left: 30%;
+}
